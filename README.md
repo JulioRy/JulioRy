@@ -9,7 +9,7 @@
 
 * 💻 Java
 * 🌐 Javascript | HTML | CSS
-* 🎮 Godot Engine
+* 🎮 Godot Engine :)
 * 🔧 Git | GitHub Actions
 
 ### 🤝🏻 Connect with me
