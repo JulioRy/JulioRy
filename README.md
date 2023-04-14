@@ -4,13 +4,14 @@
 
 * 🎓 I'm currently in the second year of Bachelor's Degree in UNIFOR, in Brazil.
 
-### 👓 Tech Stacks
+
 
 • Java
 • Javascript, React
 • HTML, CSS
 • Salesforce Apex, SOQL, SOSL, VisualForce
 • Git, Github
+
 
 ### 🤝🏻 Connect with me
 
