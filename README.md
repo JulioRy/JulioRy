@@ -7,9 +7,13 @@
 
 
 • Java
+
 • Javascript, React
+
 • HTML, CSS
+
 • Salesforce Apex, SOQL, SOSL, VisualForce
+
 • Git, Github
 
 
