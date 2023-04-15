@@ -2,7 +2,7 @@
 
 ### 🤵🏻 About me
 
-* 🎓 I'm currently in the second year of Bachelor's Degree in UNIFOR, in Brazil.
+* 🎓 I'm currently in the second year of Computer Science Bachelor's Degree in UNIFOR, in Brazil.
 
 
 
