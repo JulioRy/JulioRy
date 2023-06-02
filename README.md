@@ -3,14 +3,14 @@
 ### 🤵🏻 About me
 
 * 🎓 I'm currently in the second year of Computer Science Bachelor's Degree in UNIFOR, in Brazil.
+* Im working in OSF Digital
 
 
+
+• Javascript, React, NextJS
+• HTML, CSS
 
 • Java
-
-• Javascript, React
-
-• HTML, CSS
 
 • Salesforce Apex, SOQL, SOSL, VisualForce
 
