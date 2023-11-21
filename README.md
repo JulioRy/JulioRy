@@ -8,10 +8,15 @@
 
 
 • Java, Node
+
 • Javascript, React, NextJS, TypeScript
+
 • MongoDB, SQL
+
 • HTML, CSS
+
 • Salesforce Apex, SOQL, SOSL, VisualForce
+
 • Git, Github
 
 
