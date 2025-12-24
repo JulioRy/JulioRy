@@ -2,7 +2,6 @@
 
 ### 🤵🏻 About me
 
-* 🎓 I have a ba
 * Im working in OSF Digital as a Developer with more than 3 years of experience.
 * I have graduated with a Bachelor's degree in Computer Science at the University of Fortaleza (UNIFOR)
 
